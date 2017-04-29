@@ -1,0 +1,20 @@
+{
+  "name": "chrome_extension_carinha_fofinha",
+  "version": "1.0.0",
+  "description": "Just copy a (◕‿◕) for you.",
+  "main": "index.js",
+  "scripts": {
+    "build": "rar a -r build_$(date +%Y-%m-%d) *"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renanpallin/chrome-extension-carinha-fofinha.git"
+  },
+  "keywords": [],
+  "author": "Renan Pallin <renanpallin@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renanpallin/chrome-extension-carinha-fofinha/issues"
+  },
+  "homepage": "https://github.com/renanpallin/chrome-extension-carinha-fofinha#readme"
+}
